@@ -1,0 +1,23 @@
+{
+"inputSize" : 		2,
+"hiddenSize1": 		16,
+"hiddenSize2":		13,
+"hiddenSize3": 		 8,
+"hiddenSize4": 		 8,
+"NLayers":		    4,
+"outputSize":		 1,
+"epochs":  			7000,
+"BatchSize": 		1000,
+"MaxNumOfPoints":	1e+7,
+"reg_constant": 	1e-5,
+"lr":		 		1e-1,
+"lam":				0.1,
+"lrReduceEvery": 	200,
+"ReduceFactor": 	0.5,
+"EarlyStop": 		400,
+"ChangeTestFunctionEvery":  15,
+"SaveModel":  		0,
+"ReloadFile": 	    0,
+"TestName":  		"Test2",
+"InputFile": 		"Grid200Dec_0_1.mat"
+}
