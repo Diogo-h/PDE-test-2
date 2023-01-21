@@ -19,7 +19,7 @@ with open('Data/test2.json') as f:
 errVec = []
 
 tmpl = 'L5H2'
-n = 2
+n = 3
 phase = 4
 
 data['input_path'] = os.path.join(pwd,'../Data/InputData')

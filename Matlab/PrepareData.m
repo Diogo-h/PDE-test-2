@@ -12,7 +12,7 @@ else
     copyfile heartNlungs_phantom2.m heartNlungs.m
     tmpl = 'L5H2';
 end
-n = 2;
+n = 3;
 phs = 4; %phase [0,7]
 phase =phs*pi/8;
 
